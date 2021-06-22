@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/handler"
+	"amexSampleProject/handler"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"

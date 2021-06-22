@@ -1,4 +1,4 @@
-module awesomeProject
+module amexSampleProject
 
 go 1.16
 
